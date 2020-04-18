@@ -1,0 +1,651 @@
+headline	countries	cities
+Zika Outbreak Hits Miami	nan	Miami
+Could Zika Reach New York City?	nan	New York City
+First Case of Zika in Miami Beach	nan	Miami Beach
+Mystery Virus Spreads in Recife, Brazil	Brazil	Recife
+Dallas man comes down with case of Zika	nan	Dallas
+Trinidad confirms first Zika case	nan	Trinidad
+Zika Concerns are Spreading in Houston	nan	Houston
+Geneve Scientists Battle to Find Cure	nan	Geneve
+The CDC in Atlanta is Growing Worried	nan	Atlanta
+Zika Infested Monkeys in Sao Paulo	nan	Sao Paulo
+Brownsville teen contracts Zika virus	nan	Brownsville
+Mosquito control efforts in St. Louis take new tactics with Zika threat	nan	St. Louis
+San Juan reports 1st U.S. Zika-related death amid outbreak	nan	San Juan
+Flu outbreak in Galveston, Texas	nan	Galveston
+Zika alert â€“ Manila now threatened	nan	Manila
+Zika afflicts 7 in Iloilo City	nan	Iloilo
+New Los Angeles Hairstyle goes Viral	nan	Los Angeles
+Louisiana Zika cases up to 26	nan	nan
+Orlando volunteers aid Zika research	nan	Orlando
+Zika infects pregnant woman in Cebu	nan	nan
+Chicago's First Zika Case Confirmed	nan	Chicago
+Tampa Bay Area Zika Case Count Climbs	nan	Tampa
+Bad Water Leads to Sickness in Flint, Michigan	nan	Flint
+Baltimore plans for Zika virus	nan	Baltimore
+London Health Unit Tracks Mad Cow Disease	nan	London
+Zika cases in Vietnam's Ho Chi Minh City surge	Vietnam	Ho Chi Minh City
+Philadelphia experts track pandemic	nan	Philadelphia
+Flu season hits Boston	nan	Boston
+Scientists in Paris to look for answers	nan	Paris
+Key Zika Findings in San Diego Institute	nan	San Diego
+Thailand-Zika Virus in Bangkok	Thailand	Bangkok
+Beijing team cracks Zika secret	nan	Beijing
+Zika spreading to Salvador	nan	Salvador
+Kuala Lumpur is Hit By Zika Threat	nan	Kuala Lumpur
+First Zika case confirmed in Yangon	nan	Yangon
+Tallahassee Doctors Discuss Zika Virus	nan	Tallahassee
+Zika Virus Reaches San Francisco	nan	San Francisco
+New Vaccine on Trial in Bethesda District	nan	Bethesda
+Townsville Zika tests inconclusive	nan	Townsville
+Mandaluyong City under Siege by Virus	nan	Mandaluyong City
+Hepatitis E re-emerges in Santa Rosa	nan	Santa Rosa
+Zika worries in San Salvador	nan	San Salvador
+Zika virus reported in Cleveland	nan	Cleveland
+More Zika patients reported in Austin	nan	Austin
+Zika outbreak in Piracicaba, Brazil	Brazil	Piracicaba
+Lima tries to address Zika Concerns	nan	Lima
+More people in Toronto are infected with Hepatitis E every year	nan	Toronto
+18 new Zika Cases in Bogota	nan	Bogota
+Spanish Flu Sighted in Antigua	nan	nan
+Brisbane is infested with Meningitis	nan	Brisbane
+Cholera outbreak in Dakar	nan	Dakar
+Zika Virus Transmission Detected in Havana	nan	Havana
+Zika symtomps spotted in Key West	nan	Key West
+Case of Measles Reported in Vancouver	nan	Vancouver
+Seattle scientists get $500,000 grant to pursue Zika vaccine New 7:50 pm	nan	Seattle
+Nashville takes precautions against Zika	nan	Nashville
+Saint Croix under Zika threat	nan	Saint Croix
+Fort Collins Encounters Severe Symptoms of Gonorrhea	nan	Fort Collins
+Zika surfaces in Klang, Malaysia	Malaysia	Klang
+Rumors about Meningitis spreading in Guatemala City have been refuted	Guatemala	Guatemala City
+Madison lab developing vaccine against Zika virus [The Wisconsin State Journal]	nan	Madison
+New Zika Case Confirmed in Sarasota County	nan	Sarasota
+Lower Hospitalization in Entebbe after Rabies Vaccine becomes Mandatory	nan	Entebbe
+Carnival under threat in Rio De Janeiro due to Zika outbreak	nan	nan
+Second Zika Paitient in Brasilia	nan	Brasilia
+Jacksonville man hit by Zika	nan	Jacksonville
+Schools in Shenzhen Closed Due to Malaria Outbreak	nan	Shenzhen
+Caracas patient dies	nan	Caracas
+More Quezon City Zika Transmissions	nan	Quezon City
+Schools in Sydney Closed Due to Respiratory Syncytial Virus Outbreak	nan	Sydney
+Mumbai's Health Minister warns of more Zika cases	nan	Mumbai
+Pune woman diagnosed with Zika	nan	Pune
+Hospitals in Hanoi fill up with Zika patients	nan	Hanoi
+Zika case reported in Oton	nan	nan
+Authorities are Worried about the Spread of Bronchitis in Silver Spring	nan	Silver Spring
+Zika: Delhi for strict monitoring	nan	Delhi
+Hillsborough uses innovative trap against Zika 20 minutes ago	nan	nan
+Belize City under threat from Zika	Belize	Belize City
+Student sick in Campinas, Brazil	Brazil	Campinas
+More Zika cases in Soyapango	nan	Soyapango
+Authorities are Worried about the Spread of Mad Cow Disease in Rome	nan	Rome
+Seoul confirms 14th Zika infection	nan	Seoul
+Hepatitis B Vaccine is now Required in Quebec	nan	Quebec
+Zika outbreak spreads to Mexico City	Mexico	Mexico City
+Rochester authorities confirmed the spread of Dengue	nan	Rochester
+El Paso fighting Zika	nan	El Paso
+Visitor to Cucuta contracts Zika	nan	Cucuta
+Zika now spreading through Jakarta	nan	Jakarta
+Maka City Experiences Influenza Outbreak	nan	nan
+Salt Lake City tests new cure for Respiratory Syncytial Virus	nan	Salt Lake City
+Zika San Antonio Patient Speaks Out	nan	San Antonio
+Ebola outbreak in Kampala	nan	Kampala
+Precautionary Zika measures in Rockhampton	nan	Rockhampton
+Zika arrives in Tegucigalpa	nan	Tegucigalpa
+New Zika Case Confirmed in Belo Horizonte	nan	Belo Horizonte
+Case of Hepatitis E Reported in Melbourne	nan	Melbourne
+First Columbus Zika case	nan	Columbus
+New medicine wipes out Tuberculosis in Taipei	nan	Taipei
+Zika Patient in Seminole, Florida	nan	Seminole
+Antipolo under threat from Zika Virus	nan	Antipolo
+Spreading Zika reaches Bacoor	nan	Bacoor
+Can Zika make it here to Vero Beach?	nan	Vero Beach
+Zika afflicts patient in Calamba	nan	Calamba
+Hollywood Outbreak Film Premieres	nan	Hollywood
+Petaling Jaya man ill from Zika	nan	Petaling Jaya
+Malaria is Spreading in Johannesburg	nan	Johannesburg
+Authorities are Worried about the Spread of Norovirus in Buenos Aires	nan	Buenos Aires
+Guangzhou Patient in Critical Condition after Contracting Swine Flu	nan	Guangzhou
+Doral hit by Deadly Virus	nan	Doral
+Tokyo Encounters Severe Symptoms of Meningitis	nan	Tokyo
+Rabies Exposure in Hamilton	nan	Hamilton
+Authorities are Worried about the Spread of Influenza in Savannah	nan	Savannah
+Zika Outbreak in Hyderabad	nan	Hyderabad
+Birmingham Residents Recieve Rabies vaccine	nan	Birmingham
+Is Zika virus in Majuro?	nan	Majuro
+Spreading Zika ruining Cancun fun	nan	Cancun
+Cancun hit by Outbreak of Party Fever!	nan	Cancun
+HIV has Arrived in Fairfax	nan	Fairfax
+Spanish Flu Outbreak in Barcelona	nan	Barcelona
+Santa Barbara tests new cure for Hepatitis C	nan	Santa Barbara
+Spring break ruined by Zika in Fort Lauderdale	nan	Fort Lauderdale
+Villavicencio under Zika threat	nan	Villavicencio
+Two more Zika cases confirmed in Laredo	nan	Laredo
+New Delhi Addressing Zika Concerns	nan	New Delhi
+New Zika Case in Kota Kinabalu, Malaysia	Malaysia	Kota Kinabalu
+New medicine wipes out West Nile Virus in Ventura	nan	Ventura
+Meningitis re-emerges in Nassau	nan	Nassau
+Zika reaches Johor Bahru, Malaysia	Malaysia	Johor Bahru
+Nha Trang Zika Outbreak	nan	Nha Trang
+First Zika Case in Cincinnati	nan	Cincinnati
+Molo Cholera Spread Causing Concern	nan	Molo
+Norovirus Exposure in Hong Kong	Hong Kong	Hong Kong
+19 new Zika Cases in Sengkang	nan	Sengkang
+Zika cases concern Charlotte residents	nan	Charlotte
+Batangas Tourism Takes a Hit as Virus Spreads	nan	Batangas
+Johannesburg Patient in Critical Condition after Contracting Pneumonia	nan	Johannesburg
+Outbreak of Zika in Bacolod City	nan	Bacolod City
+Respiratory Syncytial Virus Keeps Spreading in Masaya	nan	Masaya
+Spike of Pneumonia Cases in Springfield	nan	Springfield
+More Zika patients reported in Mcallen	nan	nan
+Zika case reported in Jupiter	nan	Jupiter
+Zika virus confirmed in Westchester	nan	Westchester
+Authorities are Worried about the Spread of Tuberculosis in Abuja	nan	Abuja
+Rumors about Hepatitis D Spreading in San Juan Capistrano have been Refuted	nan	San Juan Capistrano
+The Spread of Measles in Spokane has been Confirmed	nan	Spokane
+Zika alert for Rio Grande Valley residents	nan	Rio Grande
+Zika symptoms spotted in Colombo	nan	Colombo
+West Nile Virus Outbreak in Louisville	nan	Louisville
+New details in Baton Rouge cop killings	nan	Baton Rouge
+Hepatitis B has not Left Florence	nan	Florence
+More Zika patients reported in Pensacola	nan	Pensacola
+Outbreak of Zika in Corpus Christi	nan	Corpus Christi
+How to Avoid Rhinovirus in Lemon Grove	nan	Lemon Grove
+Rumors about Rotavirus spreading in Huntsville have been refuted	nan	Huntsville
+Rhinovirus has Arrived in Athens	nan	Athens
+Outbreak of Zika in Panama City	Panama	Panama City
+West Nile Virus Outbreak in Saint Johns	nan	nan
+Measles has not Left Brooklyn	nan	Brooklyn
+Escondido neighborhood to get sprayed for Zika virus	nan	Escondido
+Zika in Belmont, Belmont worry	nan	Belmont
+Influenza has not Left Sacramento	nan	Sacramento
+Veracruz hit by Zika Concerns	nan	Veracruz
+Case of Mumps Reported in Dayton	nan	Dayton
+Authorities are Worried about the Spread of Dengue in Kingston	nan	Kingston
+Gainesville Deals with Disease Concerns	nan	Gainesville
+Montevideo Encounters Severe Symptoms of Rotavirus	nan	Montevideo
+Varicella Keeps Spreading in Detroit	nan	Detroit
+Arhus is infested with Bronchitis	nan	Arhus
+Zika Troubles come to Niteroi	nan	Niteroi
+Zika cases in Singapore reach 393	Singapore	Singapore
+Manhattan Residents Recieve HIV vaccine	nan	Manhattan
+Zika arrives in Miri	nan	Miri
+Rumors about Dengue Spreading in Syracuse have been Refuted	nan	Syracuse
+Will Norovirus vaccine help Raleigh?	nan	Raleigh
+Lower Hospitalization in Auckland after Hepatitis D Vaccine becomes Mandatory	nan	Auckland
+How to Avoid Gonorrhea in Shreveport	nan	Shreveport
+Ithaca is infested with Dengue	nan	Ithaca
+Will MCD vaccine help Strasbourg?	nan	Strasbourg
+New medicine wipes out Measles in Fresno	nan	Fresno
+BREAKING â€“ Zika in Missoula	nan	Missoula
+Zika arrives in Santos	nan	Santos
+Sick Livestock Leads to Serious Trouble for Belfort	nan	Belfort
+Hepatitis E has not Left Libreville	nan	Libreville
+New medicine wipes out Chikungunya in Tucson	nan	Tucson
+Norovirus has Arrived in Winnipeg	nan	Winnipeg
+Hepatitis B Comes to Kansas City	nan	Kansas City
+More Patients in Cambridge are Getting Diagnosed with Chickenpox	nan	Cambridge
+Chikungunya Exposure in Toledo	nan	Toledo
+Is Lafayette prepared to combat Zika?	nan	Lafayette
+Mecca tests new cure for Chikungunya	nan	Mecca
+Zika arrives in San Benito	nan	San Benito
+Syphilis Outbreak in Harrisburg	nan	Harrisburg
+Zika Arrives in North Miami	nan	North Miami
+Urbana Encounters Severe Symptoms of Meningitis	nan	Urbana
+Pittsburgh Residents Recieve Norovirus vaccine	nan	Pittsburgh
+Chikungunya Hits Denver	nan	Denver
+Zika case recorded in Tunapuna Â»	nan	Tunapuna
+Spike of Respiratory Syncytial Virus Cases in Mandalay	nan	Mandalay
+HIV Keeps Spreading in Boulder	nan	Boulder
+More Zika patients reported in Joao Pessoa	nan	Joao Pessoa
+Will Tuberculosis vaccine help Rockville?	nan	Rockville
+Mad Cow Disease Re-emerges in Chatham	nan	Chatham
+Zika Virus Arrives in Ontario	nan	Ontario
+Mad Cow Disease Hits Naples	nan	Naples
+More Zika patients reported in Davao	nan	Davao
+The Spread of Chikungunya in Arcadia has been Confirmed	nan	Arcadia
+Oxford tests new cure for HIV	nan	Oxford
+Outbreak of Zika in Stephenville	nan	Stephenville
+Providence Encounters Severe Symptoms of Dengue	nan	Providence
+Tests negative on Windsor Zika carriers	nan	Windsor
+Zika battle outlined at Valdosta meeting	nan	Valdosta
+Zika case reported in Coral Gables	nan	Coral Gables
+Hepatitis C Outbreak in Danbury	nan	Danbury
+Chickenpox has Arrived in Chula Vista	nan	Chula Vista
+Syphilis Hits Jefferson	nan	Jefferson
+Will HIV vaccine help Las Vegas?	nan	Las Vegas
+Zika arrives in West Palm Beach	nan	West Palm Beach
+Mobile authorities confirmed the spread of Bronchitis	nan	Mobile
+Zika spreads to Daytona Beach	nan	Daytona Beach
+Lausanne Residents Recieve Meningitis vaccine	nan	Lausanne
+Rhinovirus Comes to San Jose	nan	San Jose
+Spike of Chlamydia Cases in Farmington	nan	Farmington
+Authorities are Worried about the Spread of Rotavirus in Union	nan	Union
+Rumors about Hepatitis D spreading in Albany have been refuted	nan	Albany
+Zika symptoms spotted in Bello	nan	Bello
+Will Meningitis vaccine help Hamburg?	nan	Hamburg
+Madera Patient in Critical Condition after Contracting Rabies	nan	Madera
+Zika Virus Detected in Lubbock	nan	Lubbock
+Malaria re-emerges in Boise	nan	Boise
+Varicella re-emerges in Lagos	nan	Lagos
+Vericella spreading in Ibadan	nan	Ibadan
+Schools in Birmingham Closed Due to Measles Outbreak	nan	Birmingham
+How to Avoid Hepatitis B in Waldorf	nan	Waldorf
+More people in Mclean are infected with Hepatitis A every year	nan	nan
+Malaria Exposure in Sussex	nan	nan
+Tuberculosis Outbreak in Newark	nan	Newark
+Zika Virus Sparks 'International Concern'	nan	Sparks
+Spike of Chlamydia Cases in Berlin	nan	Berlin
+Zika-carrying mosquitoes discovered in Ardmore	nan	Ardmore
+Zika Mosquitoes May Have Bred in Bromeliads, Florida Officials Say	nan	Florida
+More Livestock in Fontainebleau are infected with Mad Cow Disease	nan	Fontainebleau
+Frisco Woman Tests Positive For Zika Virus	nan	Frisco
+Authorities are Worried about the Spread of Norovirus in Dubai	nan	Dubai
+Benton Residents Recieve Pneumonia vaccine	nan	Benton
+Case of Hepatitis A Reported in Calgary	nan	Calgary
+Zika Outbreak in Pinewood	nan	Pinewood
+Will Swine Flu vaccine help Ljubljana?	nan	Ljubljana
+Bronchitis re-emerges in Tehran	nan	Tehran
+Greenwich Establishes Zika Task Force	nan	nan
+Mad Cow case in Murcia	nan	Murcia
+Mad Cow Disease Spreads to Margate	nan	Margate
+Zika Strikes St. Petersburg	nan	St. Petersburg
+Will West Nile Virus vaccine help Parsons?	nan	nan
+Will the Mad Cow Outbreak Reach Vienna?	nan	Vienna
+More Patients in Orange are Getting Diagnosed with Chickenpox	nan	Orange
+Lower Hospitalization in Richmond after Mumps Vaccine becomes Mandatory	nan	Richmond
+Meningitis re-emerges in Medina	nan	Medina
+Yulee takes a hit from Spreading Sickness	nan	nan
+Four cases of Zika in Hidalgo County	nan	Hidalgo
+Zika symptoms spotted in Hollywood	nan	Hollywood
+Zika arrives in Oaxaca	nan	Oaxaca
+More people in Durham are infected with Chlamydia every year	nan	Durham
+Authorities are Worried about the Spread of Gonorrhea in Taoyuan City	nan	Taoyuan City
+Swine Flu re-emerges in La Jolla	nan	La Jolla
+Tuberculosis Outbreak in Hartford	nan	Hartford
+Rumors about Mumps Spreading in New Bedford have been Refuted	nan	New Bedford
+Respiratory Syncytial Virus Vaccine is now Required in Tulsa	nan	Tulsa
+More people in Indianapolis are infected with Norovirus every year	nan	Indianapolis
+Lower Hospitalization in Dhaka after Measles Vaccine becomes Mandatory	nan	Dhaka
+Albany Residents Recieve Respiratory Syncytial Virus vaccine	nan	Albany
+The Spread of Chikungunya in Davidson has been Confirmed	nan	nan
+Rotavirus Vaccine is now Required in Starkville	nan	Starkville
+Schools in Yaounde Closed Due to Mumps Outbreak	nan	Yaounde
+More people in Nadi are infected with HIV every year	nan	Nadi
+Tocumen tests new cure for Hepatitis A	nan	Tocumen
+Phnom Penh hit by Zika Threat	nan	Phnom Penh
+Zika Troubles come to Harlingen	nan	Harlingen
+Zika spreads to Barranquilla	nan	Barranquilla
+Milwaukee authorities confirmed the spread of Rhinovirus	nan	Milwaukee
+Mad Cow Disease Hits Rotterdam	nan	Rotterdam
+Zika symptoms spotted in Arlington	nan	Arlington
+West Nile Virus Hits Yogyakarta	nan	Yogyakarta
+More Patients in Dublin are Getting Diagnosed with Bronchitis	nan	Dublin
+Rumors about Tuberculosis Spreading in Baud have been Refuted	nan	Baud
+Rumors about West Nile Virus Spreading in Salem have been Refuted	nan	Salem
+St. Catharines Patient in Critical Condition after Contracting Dengue	nan	St. Catharines
+Zika case reported in Los Fresnos	nan	nan
+More Zika patients reported in Camacari	nan	Camacari
+Outbreak of Zika in Pasig City	nan	Pasig City
+Zika Troubles come to Kampong Cham	nan	Kampong Cham
+Zika case reported in Rizal	nan	Rizal
+Zika Spreads to Palm Beach Gardens	nan	Palm Beach Gardens
+More people in Saint Petersburg are infected with Varicella every year	nan	Saint Petersburg
+Spike of Herpes Cases in Meriden	nan	Meriden
+Zika case reported in Abilene	nan	Abilene
+Outbreak of Zika in Palm Springs	nan	Palm Springs
+Halifax is infested with Swine Flu	nan	Halifax
+Zika arrives in Natal	nan	Natal
+Herpes Keeps Spreading in Rochester	nan	Rochester
+Zika case reported in Phetchabun	nan	Phetchabun
+How to Avoid Pneumonia in Bullhead City	nan	Bullhead City
+West Nile Virus re-emerges in Wellington	nan	Wellington
+Rumors about Pneumonia spreading in Ottawa have been refuted	nan	Ottawa
+Meningitis re-emerges in Summerville	nan	Summerville
+Pneumonia Symptoms Spread all over Bloomington	nan	Bloomington
+More Patients in Stuttgart are Getting Diagnosed with Rabies	nan	Stuttgart
+Schools in Glasgow Closed Due to Hepatitis B Outbreak	nan	Glasgow
+Phoenix Residents Recieve Syphilis vaccine	nan	Phoenix
+More people in Boucau are infected with HIV every year	nan	nan
+Spanish flu spreading in Madrid	nan	Madrid
+Rabies Hits Madrid	nan	Madrid
+Zika Outbreak in Weslaco	nan	Weslaco
+How to Avoid Chlamydia in Santiago	nan	Santiago
+Rotavirus Vaccine is now Required in Las Cumbres	nan	Las Cumbres
+Mumps Symptoms Spread all over Jefferson	nan	Jefferson
+Mad Cow Outbreak Spreading in Ennis	nan	Ennis
+Southampton Patient in Critical Condition after Contracting Tuberculosis	nan	Southampton
+The Spread of Rhinovirus in Boardman has been Confirmed	nan	Boardman
+Richland Center is infested with Hepatitis B	nan	Richland
+Authorities are Worried about the Spread of Chickenpox in Richmond	nan	Richmond
+Chikungunya re-emerges in Kobe	nan	Kobe
+Malaria Vaccine is now Required in Schenectady	nan	Schenectady
+Hepatitis D has Arrived in Grenoble	nan	Grenoble
+West Nile Virus Symptoms Spread all over Yerevan	nan	Yerevan
+Zika Outbreak in Sincelejo	nan	Sincelejo
+Rumors about HIV spreading in Montpellier have been refuted	nan	Montpellier
+Praia tests new cure for Pneumonia	nan	Praia
+Bronchitis Outbreak in Manhasset	nan	nan
+Lower Hospitalization in Lakewood after Hepatitis B Vaccine becomes Mandatory	nan	Lakewood
+Zika spreads to Kuching	nan	Kuching
+Spike of Rotavirus Cases in Omaha	nan	Omaha
+Tuberculosis re-emerges in Silver Springs	nan	Springs
+Will West Nile Virus vaccine help Coronado?	nan	Coronado
+Zika case confirmed in Lorain	nan	Lorain
+Chickenpox Hits Simpsonville	nan	Simpsonville
+Framingham Residents Receive Measles vaccine	nan	Framingham
+Rumors about Mad Cow Disease Brighton have been Refuted	nan	Brighton
+Zika case reported in Jacobina	nan	Jacobina
+Bridgeport authorities confirmed the spread of West Nile Virus	nan	Bridgeport
+Zika Troubles come to Padre Las Casas	nan	nan
+Measles Vaccine is now Required in Wailuku	nan	Wailuku
+Zika symptoms spotted in Surat	nan	Surat
+Rumors about Influenza Spreading in Dobbs Ferry have been Refuted	nan	nan
+More contaminated cattle reported in Bedford	nan	Bedford
+Zika in Tamarac!	nan	Tamarac
+Will Measles vaccine help Milford?	nan	Milford
+Spike of Norovirus Cases in Huddersfield	nan	Huddersfield
+Rhinovirus Hits Bakersfield	nan	Bakersfield
+Lower Hospitalization in Papeete after Measles Vaccine becomes Mandatory	nan	Papeete
+Zika arrives in Udon Thani	nan	Udon Thani
+Spike of Dengue Cases in Stockholm	nan	Stockholm
+More people in Berkeley are infected with Swine Flu every year	nan	Berkeley
+Outbreak of Zika in Destin	nan	nan
+Zika only the latest mosquito-borne threat to New Orleans	nan	New Orleans
+Will Swine Flu vaccine help Annapolis?	nan	Annapolis
+Lower Hospitalization in Monroe after Hepatitis D Vaccine becomes Mandatory	nan	Monroe
+New medicine wipes out Dengue in Saginaw	nan	Saginaw
+Spike of Rhinovirus Cases in Sevierville	nan	Sevierville
+Duisburg up in Arms over Mad Cow Disease	nan	Duisburg
+New medicine wipes out Mumps in Saint Charles	nan	Saint Charles
+Case of Chikungunya Reported in Gaithersburg	nan	Gaithersburg
+How to Avoid Respiratory Syncytial Virus in San Bernardino	nan	San Bernardino
+Laventille authorities confirmed the spread of Rhinovirus	nan	Laventille
+More Zika patients reported in Waco	nan	Waco
+Will Herpes vaccine help Newcastle?	nan	Newcastle
+Erie County sets Zika traps	nan	Erie
+More people in Huron are infected with Dengue every year	nan	nan
+How to Avoid Norovirus in Greenville	nan	Greenville
+More Zika patients reported in Calumpang	nan	Calumpang
+Zika symptoms spotted in Quisqueya	nan	Quisqueya
+Rumors about Hepatitis D Spreading in Montreal have been Refuted	nan	Montreal
+Zika symptoms spotted in Fortaleza	nan	Fortaleza
+Rumors about Bronchitis spreading in Bundaberg have been refuted	nan	Bundaberg
+Hepatitis A re-emerges in Stamford	nan	Stamford
+Schools in Huntington Closed Due to Rotavirus Outbreak	nan	Huntington
+Will Mad Cow Vaccine Help Bristol?	nan	Bristol
+Chickenpox Comes to Stillwater	nan	Stillwater
+The Spread of Meningitis in Imperial has been Confirmed	nan	Imperial
+Will Tuberculosis vaccine help Cherry Creek?	nan	nan
+Gympie Patient in Critical Condition after Contracting Chlamydia	nan	nan
+Case of Measles Reported in Springdale	nan	Springdale
+Norwalk Encounters Severe Symptoms of Malaria	nan	Norwalk
+Zika arrives in Orange City	nan	Orange
+Pilsen Encounters Severe Symptoms of Malaria	nan	Pilsen
+Will Hepatitis B vaccine help La Paz?	nan	La Paz
+Zika Outbreak in Puducherry	nan	Puducherry
+More Zika patients reported in Carrollton	nan	Carrollton
+Will Rabies vaccine help Tangier?	nan	Tangier
+Zika symptoms spotted in Iquitos	nan	Iquitos
+West Nile Virus Exposure in Racine	nan	Racine
+The Spread of Hepatitis E in Lansing has been Confirmed	nan	Lansing
+West Nile Virus Exposure in Alpharetta	nan	Alpharetta
+Pedro Juan Caballero Encounters Severe Symptoms of Pneumonia	nan	Pedro Juan Caballero
+More Zika patients reported in Melbourne	nan	Melbourne
+Zika Troubles come to La Libertad	nan	La Libertad
+Herpes Vaccine is now Required in Mattoon	nan	Mattoon
+Kent is infested with Rabies	nan	Kent
+Zika symptoms spotted in Bonita Springs	nan	Bonita Springs
+The Spread of Malaria in Brazzaville has been Confirmed	nan	Brazzaville
+More Zika patients reported in Fort Myers	nan	Fort Myers
+Zika spreads to Lewisville	nan	Lewisville
+Ogden is infested with Gonorrhea	nan	Ogden
+Fort Hood Reports its First Zika Patient	nan	Fort Hood
+Huzhou Residents Receive Hepatitis B vaccine	nan	Huzhou
+New medicine wipes out Rabies in Newburgh	nan	Newburgh
+Iowa City Encounters Severe Symptoms of Rhinovirus	nan	Iowa City
+Spike of Rabies Cases in Managua	nan	Managua
+Outbreak of Zika in Santa Elena	nan	Santa Elena
+Mumps Hits Howard Beach	nan	Howard Beach
+The Spread of Gonorrhea in Reno has been Confirmed	nan	Reno
+How to Avoid Rhinovirus in Plainfield	nan	Plainfield
+Rumors about Varicella spreading in Carlsbad have been refuted	nan	Carlsbad
+Scranton authorities confirmed the spread of Gonorrhea	nan	Scranton
+Mad Cow Disease Disastrous to Brussels	nan	Brussels
+Zika spreads to Olinda	nan	Olinda
+Hallandale Beach a Victim of Zika Outbreak	nan	Hallandale Beach
+Rhinovirus re-emerges in Storrs	nan	Storrs
+Germantown authorities confirmed the spread of Chickenpox	nan	Germantown
+Rumors about Rotavirus spreading in North Platte have been refuted	nan	North Platte
+Spike of Hepatitis C Cases in Golden	nan	Golden
+Authorities are Worried about the Spread of Hepatitis D in Ganja	nan	Ganja
+Dengue Exposure in Kathmandu	nan	Kathmandu
+Tuberculosis has Arrived in Fairfield	nan	Fairfield
+Outbreak of Zika in Kozhikode	nan	Kozhikode
+Bronchitis Symptoms Spread all over Santa Fe	nan	Santa Fe
+More Patients in Alexandria are Getting Diagnosed with Mumps	nan	Alexandria
+Pneumonia Exposure in Alhambra	nan	Alhambra
+Hepatitis C re-emerges in Damascus	nan	Damascus
+Lower Hospitalization in Pekanbaru after Rotavirus Vaccine becomes Mandatory	nan	Pekanbaru
+Spike of Meningitis Cases in Druid Hills	nan	nan
+Schools in Bentonville Closed Due to Hepatitis B Outbreak	nan	Bentonville
+Hepatitis E Hits Hammond	nan	Hammond
+Schools in Bridgeton Closed Due to Mumps Outbreak	nan	Bridgeton
+Biloxi Residents Recieve Chlamydia vaccine	nan	Biloxi
+Case of Mad Cow Disease Reported in Hilden	nan	Hilden
+Rumors about Rabies Spreading in Khartoum have been Refuted	nan	Khartoum
+Harare is infested with Pneumonia	nan	Harare
+Zika symptoms spotted in Sibu	nan	Sibu
+Zika arrives in Quezon	nan	Quezon
+More Patients in Crawfordsville are Getting Diagnosed with Rabies	nan	Crawfordsville
+Spike of Hepatitis B Cases in Greenville	nan	Greenville
+Authorities are Worried about the Spread of Hepatitis D in Akron	nan	Akron
+More Zika patients reported in Nuevo Laredo	nan	Nuevo Laredo
+Bronchitis Keeps Spreading in San Mateo	nan	San Mateo
+Zika arrives in Boca Raton	nan	Boca Raton
+Bradenton Experiences Zika Troubles  	nan	Bradenton
+Chlamydia Symptoms Spread all over University City	nan	University City
+Wisconsin Rapids Patient in Critical Condition after Contracting Chickenpox	nan	Wisconsin Rapids
+Zika spreads to Kissimmee	nan	Kissimmee
+Herpes Symptoms Spread all over Fremont	nan	Fremont
+Spike of Pneumonia Cases in The Bronx	nan	The Bronx
+Authorities are Worried about the Spread of Hepatitis D in North Bay	nan	North Bay
+The Spread of Herpes in Baku has been Confirmed	nan	Baku
+Will Measles vaccine help Sochi?	nan	Sochi
+Tuberculosis Symptoms Spread all over Caguas	nan	Caguas
+HIV has Arrived in Tacoma	nan	Tacoma
+Malaria re-emerges in Nashua	nan	Nashua
+Arvada is infested with Syphilis	nan	Arvada
+Spike of Syphilis Cases in West Monroe	nan	Monroe
+More Zika patients reported in Ribeirao Preto	nan	Ribeirao Preto
+Martinsville tests new cure for Measles	nan	nan
+Deerfield tests new cure for Measles	nan	Deerfield
+Contaminated Meat Brings Trouble for Bonn Farmers	nan	Bonn
+More Patients in Magnolia are Getting Diagnosed with Malaria	nan	nan
+Hepatitis A re-emerges in Foster City	nan	Foster City
+How to Avoid Tuberculosis in Santa Monica	nan	Santa Monica
+Zika reported in Fort Pierce	nan	Fort Pierce
+Authorities are Worried about the Spread of Syphilis in Pyongyang	nan	Pyongyang
+Zika spreads to Winter Park	nan	Winter Park
+Durango is infested with Hepatitis B	nan	Durango
+Hepatitis A has not Left Staten Island	nan	Staten Island
+Mpika authorities confirmed the spread of Chikungunya	nan	Mpika
+Gladstone Encounters Severe Symptoms of Dengue	nan	Gladstone
+Mad Cow Disease Hits London	nan	London
+New Milford Patient in Critical Condition after Contracting Respiratory Syncytial Virus	nan	New Milford
+More people in Palo Alto are infected with HIV every year	nan	Palo Alto
+HIV Symptoms Spread all over Hinthada	nan	Hinthada
+Zika symptoms spotted in Quito	nan	Quito
+Vineland authorities confirmed the spread of Chlamydia	nan	Vineland
+Sulu, Zamboanga brace for Zika	nan	Zamboanga
+More Zika patients reported in Custodia	nan	Custodia
+Tupelo Residents Recieve Syphilis vaccine	nan	Tupelo
+Rumors about Syphilis spreading in Penal have been refuted	nan	nan
+Spanish Flu Outbreak in Lisbon	nan	Lisbon
+Spanish Flu Spreading through Madrid	nan	Madrid
+Barcelona Struck by Spanish Flu	nan	Barcelona
+Spanish Flu Outbreak in Lisbon	nan	Lisbon
+Spanish Flu Spreading through Madrid	nan	Madrid
+Barcelona Struck by Spanish Flu 	nan	Barcelona
+The Spread of Dengue in Yakima has been Confirmed	nan	Yakima
+Tuberculosis Hits Luanda	nan	Luanda
+Will West Nile Virus vaccine help Dumai?	nan	Dumai
+Rumors about Chlamydia spreading in Redmond have been refuted	nan	Redmond
+Case of Varicella Reported in Concord	nan	Concord
+Zika virus case reported in Rockland	nan	Rockland
+Zika investigators coming to Mankato	nan	Mankato
+Toms River Encounters Severe Symptoms of Respiratory Syncytial Virus	nan	Toms River
+The Spread of Malaria in Zanzibar has been Confirmed	nan	Zanzibar
+Malaria Outbreak Hits Zanzibar's Tourist Industry	nan	Zanzibar
+Tourist Perishes from Malaria in Arusha	nan	Arusha
+Herpes Symptoms Spread all over New Kingston	nan	New Kingston
+More people in Yokohama are infected with Norovirus every year	nan	Yokohama
+More people in Kitwe are infected with Respiratory Syncytial Virus every year	nan	Kitwe
+Hepatitis D Keeps Spreading in Bismarck	nan	Bismarck
+Varicella Outbreak in Minot	nan	Minot
+Malaria has Arrived in Terrebonne	nan	Terrebonne
+Chikungunya Keeps Spreading in North Vancouver	nan	North Vancouver
+Authorities are Worried about the Spread of Chickenpox in Hemet	nan	Hemet
+Fort Belvoir tests new cure for Hepatitis C	nan	nan
+More people in Oak Brook are infected with Respiratory Syncytial Virus every year	nan	nan
+Rumors about Hepatitis C spreading in Darien have been refuted	nan	Darien
+The Spread of West Nile Virus in Fairfield has been Confirmed	nan	Fairfield
+Princeton Encounters Severe Symptoms of Dengue	nan	Princeton
+Norovirus Keeps Spreading in Copenhagen	nan	Copenhagen
+Wuhan is infested with Varicella	nan	Wuhan
+Zika spreads to San Luis Potosi	nan	San Luis Potosi
+Outbreak of Zika in Hutchins	nan	nan
+Spike of Norovirus Cases in Canberra	nan	Canberra
+Zika Troubles come to Greater Noida	nan	Greater Noida
+Lower Hospitalization in Palm Springs after Hepatitis A Vaccine becomes Mandatory	nan	Palm Springs
+Longwood volunteers spreading Zika awareness	nan	nan
+Outbreak of Zika in Leesburg	nan	Leesburg
+Authorities are Worried about the Spread of Tuberculosis in Cantu	nan	Cantu
+Zika symptoms spotted in Quixere	nan	nan
+New medicine wipes out HIV in Kihei	nan	Kihei
+Sangre Grande Residents Recieve Gonorrhea vaccine	nan	Sangre Grande
+Outbreak of Zika in Colombo	nan	Colombo
+Will Rotavirus vaccine help Addis Ababa?	nan	Addis Ababa
+Stony Brook University experts discuss Zika virus	nan	University
+Lower Hospitalization in Janesville after Varicella Vaccine becomes Mandatory	nan	Janesville
+Rabies Outbreak in Altus	nan	Altus
+Miami resident suggests Zika precautions	nan	Miami
+Zika Troubles come to Jaen	nan	Jaen
+Hepatitis B Exposure in Edinburgh	nan	Edinburgh
+Zika case reported in Reynosa	nan	Reynosa
+Schools in Tulare Closed Due to Mumps Outbreak	nan	Tulare
+More Zika patients reported in Chennai	nan	Chennai
+Hepatitis D Keeps Spreading in Danvers	nan	Danvers
+Authorities a Miami	nan	Miami
+Zika case reported in Medellin	nan	Medellin
+Spike of Tuberculosis Cases in Albuquerque	nan	Albuquerque
+More people in Cranford are infected with Hepatitis A every year	nan	Cranford
+West Nile Virus Hits Monroe	nan	Monroe
+Pneumonia Outbreak in Springville	nan	Springville
+Zika arrives in San Onofre	nan	San Onofre
+Lung Cancer Rates Increasing in Moscow	nan	Moscow
+Rumors about Rotavirus Spreading in Joliet have been Refuted	nan	Joliet
+More Zika patients reported in Chanthaburi	nan	Chanthaburi
+Lawrenceville is infested with Dengue	nan	Lawrenceville
+Zika Reported in Ciudad Acuna	nan	Ciudad Acuna
+Zika case reported in Limoeiro	nan	Limoeiro
+Ibadan tests new cure for Malaria	nan	Ibadan
+Gonorrhea has Arrived in Avon Lake	nan	Avon Lake
+Pneumonia has not Left Kinshasa	nan	Kinshasa
+Respiratory Syncytial Virus Hits Henderson	nan	Henderson
+More Zika patients reported in Lakeland	nan	Lakeland
+Malaria Vaccine is now Required in Winona	nan	Winona
+More Patients in Canton are Getting Diagnosed with Norovirus	nan	Canton
+Ronkonkoma is infested with Chickenpox	nan	Ronkonkoma
+Kedougou tests new cure for Hepatitis C	nan	Kedougou
+Gonorrhea Exposure in Norwalk	nan	Norwalk
+How to Avoid Rhinovirus in Medford	nan	Medford
+Hepatitis D Symptoms Spread all over Evansville	nan	Evansville
+New medicine wipes out Herpes in Bossier City	nan	Bossier City
+Pneumonia Exposure in San Jose	nan	San Jose
+Authorities are Worried about the Spread of Mad Cow Disease in Edinburgh	nan	Edinburgh
+Duluth Patient in Critical Condition after Contracting Rotavirus	nan	Duluth
+Measles Hits Davos	nan	nan
+Norfolk tests new cure for Herpes	nan	Norfolk
+More Zika patients reported in Botucatu	nan	Botucatu
+Manassas Encounters Severe Symptoms of Measles	nan	Manassas
+Fayetteville authorities confirmed the spread of HIV	nan	Fayetteville
+Varicella Exposure in Cambridge	nan	Cambridge
+Hepatitis A Vaccine is now Required in Fukushima	nan	Fukushima
+Zika Outbreak in South Miami	nan	Miami
+Hepatitis D Symptoms Spread all over North Bethesda	nan	North Bethesda
+Panama Cityâ€™s first Zika related death	Panama	Panama City
+West Nile Virus has Arrived in Dongguan	nan	Dongguan
+Zika arrives in Belmopan	nan	Belmopan
+Zika seminars in Yuma County	nan	Yuma
+Rumors about Hepatitis E Spreading in Morristown have been Refuted	nan	Morristown
+Mumps Outbreak in Joplin	nan	Joplin
+Spike of Hepatitis E Cases in Morehead City	nan	nan
+Authorities are Worried about the Spread of Mumps in Corona	nan	Corona
+Schools in Danville Closed Due to Tuberculosis Outbreak	nan	Danville
+Outbreak of Zika in Alvorada	nan	nan
+Marquette tests new cure for Hepatitis A	nan	Marquette
+Norovirus Vaccine is now Required in Anaheim	nan	Anaheim
+Zika Outbreak in Manaus	nan	Manaus
+Zika spreads to Caucasia	nan	Caucasia
+Case of Malaria Reported in Aurora	nan	Aurora
+Manchester Residents Recieve Influenza vaccine	nan	Manchester
+Zika spreads to Kamphaeng Phet	nan	Kamphaeng Phet
+Rotavirus Vaccine is now Required in Labasa	nan	Labasa
+The Spread of Hepatitis E in Fargo has been Confirmed	nan	Fargo
+Zika Outbreak in Mexicali	nan	Mexicali
+West Nile Virus Keeps Spreading in Hauppauge	nan	Hauppauge
+Bronchitis Keeps Spreading in Hayward	nan	Hayward
+Schools in Coamo Closed Due to Rhinovirus Outbreak	nan	nan
+Zika arrives in Dangriga	nan	nan
+Zika spreads to Plant City	nan	Plant City
+Chlamydia Exposure in Sanaa	nan	Sanaa
+Zika Reported in North Miami Beach	nan	North Miami Beach
+More Patients in Kensington are Getting Diagnosed with Varicella	nan	Kensington
+More Patients in Maynard are Getting Diagnosed with Syphilis	nan	nan
+Case of West Nile Virus Reported in Riverside	nan	Riverside
+Northfield Encounters Severe Symptoms of Herpes	nan	Northfield
+The Spread of Respiratory Syncytial Virus in Monroe has been Confirmed	nan	Monroe
+How to Avoid Hepatitis B in Trenton	nan	Trenton
+Zika Reported in Ilopango	nan	Ilopango
+Barstow Patient in Critical Condition after Contracting Herpes	nan	Barstow
+Hepatitis D Exposure in Aswan	nan	Aswan
+Will Gonorrhea vaccine help East Moline?	nan	East Moline
+New medicine wipes out Influenza in Redlands	nan	Redlands
+How to Avoid Contaminated Meat when Visiting Basel	nan	Basel
+More Zika patients reported in Kampong Speu	nan	Kampong Speu
+Alameda Residents Recieve Rabies vaccine	nan	Alameda
+Mad Cow Disease Detected in Lyon	nan	Lyon
+Memphis Encounters Severe Symptoms of Swine Flu	nan	Memphis
+Zika Troubles come to Delray Beach	nan	Delray Beach
+How to Avoid Chikungunya in Hampton	nan	Hampton
+Zika Reported in Sao Jose	nan	Sao Jose
+Case of Norovirus Reported in Stratford	nan	Stratford
+How to Avoid Hepatitis E in South Bend	nan	South Bend
+Hepatitis C Outbreak in Bethlehem	nan	Bethlehem
+Davenport is infested with Dengue	nan	Davenport
+Rumors about Swine Flu spreading in Suzhou have been refuted	nan	Suzhou
+Malaria Vaccine is now Required in Elyria	nan	Elyria
+Zika case reported in Antioquia	nan	nan
+Case of Swine Flu Reported in Tbilisi	nan	Tbilisi
+Chikungunya has not Left Pismo Beach	nan	nan
+Zika spreads to La Joya	nan	nan
+Influenza Keeps Spreading in Suffolk	nan	Suffolk
+More people in Allentown are infected with Chlamydia every year	nan	Allentown
+Mad Cow Disease re-emerges in Bedford	nan	Bedford
+Authorities are Worried about the Spread of Hepatitis B in Yiwu	nan	Yiwu
+Zika Outbreak in Yurimaguas	nan	Yurimaguas
+Dengue Outbreak in Easton	nan	Easton
+Varicella has Arrived in Milton	nan	Milton
+New medicine wipes out Meningitis in Sevilla	nan	Sevilla
+Authorities are Worried about the Spread of Varicella in Clovis	nan	Clovis
+More Zika patients reported in Fort Worth	nan	Fort Worth
+Zika symptoms spotted in Boynton Beach	nan	Boynton Beach
+Outbreak of Zika in Portoviejo	nan	Portoviejo
+Influenza Exposure in Muscat	nan	Muscat
+Rumors about Rabies spreading in Jerusalem have been refuted	nan	Jerusalem
+More Zika patients reported in Indang	nan	Indang
+Suva authorities confirmed the spread of Rotavirus	nan	Suva
+More Zika patients reported in Bella Vista	nan	Bella Vista
+Zika Outbreak in Wichita Falls	nan	Wichita Falls
